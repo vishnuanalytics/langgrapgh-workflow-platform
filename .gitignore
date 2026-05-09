@@ -1,0 +1,5 @@
+.langma/
+__pycache__/
+.env
+.vscode/
+*.pyc
